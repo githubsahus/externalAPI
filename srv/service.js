@@ -13,6 +13,6 @@ module.exports = cds.service.impl(async function () {
 
 });
 
-add: function(param1, param2){
+add: function(charan, param2){
     //functionlity to add
 }
