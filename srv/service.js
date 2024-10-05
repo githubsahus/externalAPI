@@ -9,4 +9,10 @@ module.exports = cds.service.impl(async function () {
             req.error('500', error);
         }
     });
+
+
 });
+
+add: function(){
+    //functionlity to add
+}
